@@ -1,8 +1,8 @@
 # sudoku-solver
 ## C# Training Tasks in Visual Studio Code
 
-![Sudoku board](images/screencap_board.png)
-![Table of solved boards](images/screencap_table.png)
+| ![Sudoku board](images/screencap_board.png)       | ![Table of solved boards](images/screencap_table.png) |
+| - | - |
 
 ### Prerequisites
 
