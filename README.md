@@ -1,6 +1,9 @@
 # sudoku-solver
 ## C# Training Tasks in Visual Studio Code
 
+![Sudoku board](images/screencap_board.png)
+![Table of solved boards](images/screencap_table.png)
+
 ### Prerequisites
 
 1. install VS Code extensions:
